@@ -1,0 +1,4 @@
+﻿  server.cpp
+F:\project\Telnet1\服务器\服务器\server.cpp(12): warning C4005: “_WIN32_WINNT”: 宏重定义
+  D:\Windows Kits\10\Include\10.0.17763.0\shared\sdkddkver.h(216): note: 参见“_WIN32_WINNT”的前一个定义
+  服务器.vcxproj -> F:\project\Telnet1\服务器\Debug\服务器.exe
